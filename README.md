@@ -1,4 +1,7 @@
 # GetHotfixFileInfo
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/GetHotfixFileInfo)
+
 This script get the hotfix package file information.
 
 ## License
